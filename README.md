@@ -1,2 +1,2 @@
 # Rajbhog
-A food ordering website exclusively for indian food
+A food ordering website exclusively for indian food items.
